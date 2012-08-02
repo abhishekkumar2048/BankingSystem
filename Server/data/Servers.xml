@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<Server hostname="localhost" port="5645" server_no="0">
+			<Account accno="12333" bal="100" />
+			<Account accno="12334" bal="150" />	
+	</Server>
+	<Server hostname="localhost" port="12345" server_no="1">
+			<Account accno="66778" bal="200" />
+			<Account accno="66779" bal="300" />			
+	</Server>
+	<Server hostname="localhost" port="15645" server_no="2">
+			<Account accno="98988" bal="400" />
+			<Account accno="98999" bal="500" />			
+	</Server>
+</Servers>
